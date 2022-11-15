@@ -3,7 +3,14 @@ Challenge for Week 4
 
 ## Contents of PyCitySchools.ipynb include:
 (1) A high-level snapshot, in a DataFrame, of the district's key metrics
-(2)
+(2) A df summarizing each school in the district
+(3) A df summarizing the highest performing schools
+(4) A df summarizinf the lowest performing schools
+(5) A df summarizing the math scores by grade for each school
+(6) A df summarizing the reading score by grade for each school
+(7) A df summarizing the scores of schools based on their spending
+(8) A df summarizing the scores of schools based on their size
+(9) A df summarizing the scores of schools based on their type (charter versus district)
 
 
 ##Instructions:
